@@ -36,5 +36,23 @@ Where:
 6. **Execute and Display Results:** Run the Scilab script (`.sce`) to display the maximum radar range in meters and kilometers.
 
 ---
+## TABULATION 
+<img width="1600" height="1010" alt="image" src="https://github.com/user-attachments/assets/4d5902ce-9de7-4a2c-9e1d-cc5c53b30254" />
+
+## CODING 
+<img width="1452" height="1600" alt="image" src="https://github.com/user-attachments/assets/5f3165bc-deee-412e-93bd-519b72902c37" />
+<img width="1032" height="1600" alt="image" src="https://github.com/user-attachments/assets/292eaeed-183b-4703-a60b-e5bb345d54e1" />
+<img width="1050" height="1600" alt="image" src="https://github.com/user-attachments/assets/e29988ca-252a-4a4c-85b6-12d776c58aef" />
+<img width="1600" height="1550" alt="image" src="https://github.com/user-attachments/assets/a4876093-2f69-4ca9-905e-2ecea5aaedcd" />
 
 ## MODEL GRAPH
+<img width="1755" height="848" alt="image" src="https://github.com/user-attachments/assets/b18ab1f8-bdbc-47d9-8c4d-b50f11a91751" />
+
+## RESULT 
+<img width="1600" height="880" alt="image" src="https://github.com/user-attachments/assets/79000d41-222e-4d29-a196-81244f872656" />
+
+## MARK ALLOCATION 
+<img width="1600" height="982" alt="image" src="https://github.com/user-attachments/assets/5ea2cb35-5518-4305-b2de-47f904ebb001" />
+
+
+
